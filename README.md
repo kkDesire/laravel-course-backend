@@ -11,7 +11,7 @@ Pair this respository with the front end SPA to power a URL Shortener app.
 To run the backend, clone this repo.
 
 ```
-git clone git@github.com:vueschool/laravel-course-backend.git
+git clone https://github.com/kkDesire/laravel-course-backend.git
 ```
 
 Install the dependencies with composer (make sure to [have composer installed](https://getcomposer.org/))
